@@ -69,7 +69,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"SCS-Summit-MainStage"
+                         "value":"MainStage"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -97,7 +97,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"SCS-Summit-MainStage"
+                         "value":"MainStage"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -125,7 +125,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"SCS-Summit-MainStage"
+                         "value":"MainStage"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -182,7 +182,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/eventyay.com\/e\/cf85f6e7\/schedule"
+                         "value":"https:\/\/scs.community"
                         }],
                  "type":"tilelayer",
                  "visible":true,
